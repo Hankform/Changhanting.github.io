@@ -24,7 +24,7 @@
 
 作业描述：本次作业中实现了bing搜寻引擎的搜索功能，页面包含输入框、按钮和介绍文字
 
-[网页一链接](https://Hankform.github.io/网页一 bootstrap改进尝试.html)
+[网页一链接](https://Hankform.github.io/网页一bootstrap改进尝试.html)
 
 
 ### 2. 网页二：学术数据库介绍网页
